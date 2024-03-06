@@ -7,7 +7,7 @@ Anydesk is still usable ONLY IN THE 32 BITS version. So, in order for this to wo
 
 Download the official Anydesk build from: [https://anydesk.com/en/downloads/raspberry-pi](https://anydesk.com/en/downloads/raspberry-pi)
 
-Download the libraries (files ending in .0 from this repo and copy them to `/usr/lib`. DO NOT OVERWRITE.
+Download the libraries (files ending in .so from this repo and copy them to `/usr/lib`. DO NOT OVERWRITE.
 
 
 Use raspi-config:
